@@ -1,5 +1,24 @@
+# Данные и кеш
 data/
 cache/
+
+# Python
 __pycache__/
+local_env/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE
 .DS_Store
 .idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Прочее
+*.log
+.env

@@ -2,6 +2,9 @@
 data/
 cache/
 
+# Большие notebook файлы (>100MB)
+ozone_orders/ozone_orders.ipynb
+
 # Python
 __pycache__/
 local_env/
